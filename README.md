@@ -1,0 +1,1 @@
+# text_recognition_using_openCV_easyocr
